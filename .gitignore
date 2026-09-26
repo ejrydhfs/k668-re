@@ -1,0 +1,25 @@
+# extracted installer trees (vendor binaries)
+ext/
+fresh/
+# tooling / scratch
+ghidra-proj/
+wine/
+innoextract-1.9-linux/
+innoextract.tar.xz
+__pycache__/
+# large analysis dumps / scratch output
+decomp.c
+updater_decomp.c
+range_*.c
+fw_8051*.c
+fw_disasm_full.txt
+kd.asm.gz
+60-openrgb.rules
+flash/
+# logs and screenshots
+*.log
+*.out
+*.mjpg
+*.jpg
+*.png
+hexdump*
