@@ -39,12 +39,6 @@ decrypted image 99.3% (the diffs are the runtime config blob at `0xB606-0xB7F9`)
   (command/readback, per-effect, side-bar slot test).
 - `usb-reset.sh`, `grant-access.sh`, `install-udev.sh` — device access helpers.
 
-## OpenRGB
-
-The protocol is implemented in the fork `openrgb-k668`:
-`Controllers/SinowealthController/SinowealthKeyboardController/`
-(`K668Protocol.h` + controller) with a byte-for-byte static verification test in
-`.../tests/k668_proto_test.cpp`.
 
 ## Safety notes
 
