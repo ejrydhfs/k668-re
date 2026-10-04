@@ -1,4 +1,4 @@
-# Redragon K668WBO-RGB — reverse engineering & OpenRGB support
+# Redragon K668WBO-RGB — reverse engineering
 
 Reverse engineering of the vendor Windows app **KeyboardDrv.exe V1.6.6**
 (from `Redragon_K668WBO-RGB_Setup_V1.6.6_20230612.exe`) for the Sinowealth
